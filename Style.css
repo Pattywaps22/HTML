@@ -1,0 +1,20 @@
+*{
+    box-sizing: border-box;
+}
+
+body
+ ul {
+    background-color: rgb(115, 35, 35);
+    margin: 0px 0px 0px 0px;
+    padding: 20px 20px 20px 20px;
+    list-style:none;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    }
+
+ a {
+    color: rgb(230, 203, 95);
+    text-decoration:none;
+    display: block;
+}
